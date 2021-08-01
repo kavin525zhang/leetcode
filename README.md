@@ -11,3 +11,8 @@
 * [方法一](https://github.com/kavin525zhang/leetcode/tree/main/source_code/287.寻找重复数/mine_v1.py)
 > 思路：方法来源于一个严格的限制条件， 在n + 1的列表中只会出现1~n的数，因此元素值一定在列表的下标中，结合元素和下标，遍历所有元素， 当元素对应的下标位置元素小于n + 1时， 说明第一次出现， 在相应位置增加n + 1,大于 n + 1时说明出现过一次,即为重复数，返回
 * [官方版本：快慢指针](https://github.com/kavin525zhang/leetcode/tree/main/source_code/287.寻找重复数/sota_v1.py)
+
+快慢指针相关题目：
+
+* [141.环形链表]()
+* [142.环形链表 II]()
