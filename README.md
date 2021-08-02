@@ -25,3 +25,7 @@
 > 思路：最开始做成回文了， 一个正常的思路是从头往后遍历， 当字符等于最后一个字符时，比较一下包含当前字符的之前的字符串是否等于末尾相同长度的字符串，等于即为快乐前缀， 然后继续往后判断， 注意不能是整个字符串
 * [官方版本：Rabin-Karp 字符串编码](https://leetcode-cn.com/problems/longest-happy-prefix/solution/zui-chang-kuai-le-qian-zhui-by-leetcode-solution/)
 > 思路：官方的解答为什么比我时间复杂度低的原因是，我需要去判断字符串相不相等， 而它将其编码为整数
+
+### [1943. 描述绘画结果](https://leetcode-cn.com/problems/describe-the-painting/)
+* [官方版本：差分 + 前缀和](https://leetcode-cn.com/problems/describe-the-painting/solution/miao-shu-hui-hua-jie-guo-by-leetcode-sol-tnvy/)
+
