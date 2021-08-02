@@ -19,3 +19,7 @@
 
 ### [216. 组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/)
 * [方法一](https://github.com/kavin525zhang/leetcode/blob/main/source_code/216.%20%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%20III/mine_v1.py)
+
+### [1392. 最长快乐前缀](https://leetcode-cn.com/problems/longest-happy-prefix/)
+* [方法一]()
+* [官方版本：Rabin-Karp 字符串编码](https://leetcode-cn.com/problems/longest-happy-prefix/solution/zui-chang-kuai-le-qian-zhui-by-leetcode-solution/)
