@@ -16,3 +16,6 @@
 
 * [141.环形链表](https://github.com/kavin525zhang/leetcode/blob/main/source_code/141.%20%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8/%E9%97%AE%E9%A2%98%E6%8F%8F%E8%BF%B0.md)
 * [142.环形链表 II](https://github.com/kavin525zhang/leetcode/blob/main/source_code/142.%20%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8%20II/%E9%97%AE%E9%A2%98%E6%8F%8F%E8%BF%B0.md)
+
+### [216. 组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/)
+* [方法一](https://github.com/kavin525zhang/leetcode/blob/main/source_code/216.%20%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%20III/mine_v1.py)
