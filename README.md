@@ -21,5 +21,6 @@
 * [方法一](https://github.com/kavin525zhang/leetcode/blob/main/source_code/216.%20%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%20III/mine_v1.py)
 
 ### [1392. 最长快乐前缀](https://leetcode-cn.com/problems/longest-happy-prefix/)
-* [方法一]()
+* [方法一](https://github.com/kavin525zhang/leetcode/blob/main/source_code/1392.%20%E6%9C%80%E9%95%BF%E5%BF%AB%E4%B9%90%E5%89%8D%E7%BC%80/mine_v1.py)
+> 思路：最开始做成回文了， 一个正常的思路是从头往后遍历， 当字符等于最后一个字符时，比较一下包含当前字符的之前的字符串是否等于末尾相同长度的字符串，等于即为快乐前缀， 然后继续往后判断， 注意不能是整个字符串
 * [官方版本：Rabin-Karp 字符串编码](https://leetcode-cn.com/problems/longest-happy-prefix/solution/zui-chang-kuai-le-qian-zhui-by-leetcode-solution/)
