@@ -29,12 +29,12 @@
 ### [1943. 描述绘画结果](https://leetcode-cn.com/problems/describe-the-painting/)
 * [官方版本：差分 + 前缀和](https://leetcode-cn.com/problems/describe-the-painting/solution/miao-shu-hui-hua-jie-guo-by-leetcode-sol-tnvy/)
 
-### [1331. 数组序号转换](https://leetcode-cn.com/problems/rank-transform-of-an-array/) ###### 简单
+### [1331. 数组序号转换](https://leetcode-cn.com/problems/rank-transform-of-an-array/) <small>简单</small>
 * [方法一](https://github.com/kavin525zhang/leetcode/blob/main/source_code/1331.%20%E6%95%B0%E7%BB%84%E5%BA%8F%E5%8F%B7%E8%BD%AC%E6%8D%A2/mine_v1.py)
 
 ### [1654. 到家的最少跳跃次数](https://leetcode-cn.com/problems/minimum-jumps-to-reach-home/)
 
-### [1544. 整理字符串](https://leetcode-cn.com/problems/make-the-string-great/)  ###### 简单
+### [1544. 整理字符串](https://leetcode-cn.com/problems/make-the-string-great/)  <small>简单</small>
 * [方法一](https://github.com/kavin525zhang/leetcode/blob/main/source_code/1544.%20%E6%95%B4%E7%90%86%E5%AD%97%E7%AC%A6%E4%B8%B2/mine_v1.py)
 
 
