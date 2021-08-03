@@ -33,6 +33,8 @@
 * [方法一](https://github.com/kavin525zhang/leetcode/blob/main/source_code/1331.%20%E6%95%B0%E7%BB%84%E5%BA%8F%E5%8F%B7%E8%BD%AC%E6%8D%A2/mine_v1.py)
 
 ### [1654. 到家的最少跳跃次数](https://leetcode-cn.com/problems/minimum-jumps-to-reach-home/)
+* [官方版本：DFS](https://github.com/kavin525zhang/leetcode/blob/main/source_code/1654.%20%E5%88%B0%E5%AE%B6%E7%9A%84%E6%9C%80%E5%B0%91%E8%B7%B3%E8%B7%83%E6%AC%A1%E6%95%B0/sota_v1.py)
+* [官方版本：BFS](https://github.com/kavin525zhang/leetcode/blob/main/source_code/1654.%20%E5%88%B0%E5%AE%B6%E7%9A%84%E6%9C%80%E5%B0%91%E8%B7%B3%E8%B7%83%E6%AC%A1%E6%95%B0/sota_v2.py)
 
 ### [1544. 整理字符串](https://leetcode-cn.com/problems/make-the-string-great/)  <font color=red size=5>简单</font>
 * [方法一](https://github.com/kavin525zhang/leetcode/blob/main/source_code/1544.%20%E6%95%B4%E7%90%86%E5%AD%97%E7%AC%A6%E4%B8%B2/mine_v1.py)
