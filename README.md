@@ -29,3 +29,11 @@
 ### [1943. 描述绘画结果](https://leetcode-cn.com/problems/describe-the-painting/)
 * [官方版本：差分 + 前缀和](https://leetcode-cn.com/problems/describe-the-painting/solution/miao-shu-hui-hua-jie-guo-by-leetcode-sol-tnvy/)
 
+### [1331. 数组序号转换](https://leetcode-cn.com/problems/rank-transform-of-an-array/) 简单
+* [方法一]()
+
+### [1654. 到家的最少跳跃次数](https://leetcode-cn.com/problems/minimum-jumps-to-reach-home/)
+
+### [1544. 整理字符串](https://leetcode-cn.com/problems/make-the-string-great/) 简单
+
+
