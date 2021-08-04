@@ -39,4 +39,10 @@
 ### [1544. 整理字符串](https://leetcode-cn.com/problems/make-the-string-great/)  <font color=red size=5>简单</font>
 * [方法一](https://github.com/kavin525zhang/leetcode/blob/main/source_code/1544.%20%E6%95%B4%E7%90%86%E5%AD%97%E7%AC%A6%E4%B8%B2/mine_v1.py)
 
+### [1222. 可以攻击国王的皇后](https://leetcode-cn.com/problems/queens-that-can-attack-the-king/) 简单
+
+### [1904. 你完成的完整对局数](https://leetcode-cn.com/problems/the-number-of-full-rounds-you-have-played/) 简单
+
+### [717. 1比特与2比特字符](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/)
+
 
