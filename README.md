@@ -45,4 +45,14 @@
 
 ### [717. 1比特与2比特字符](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/)
 
+### [1922. 统计好数字的数目](https://leetcode-cn.com/problems/count-good-numbers/)
+* 关键问题是解决计算的时间复杂度问题， 表达式很简单
+
+### [1680. 连接连续二进制数字](https://leetcode-cn.com/problems/concatenation-of-consecutive-binary-numbers/)
+* 关键的问题还是如何处理移位的问题， 和上题一样，处理不好就是超时， 但与上题处理方式不同
+
+### [1425. 带限制的子序列和](https://leetcode-cn.com/problems/constrained-subsequence-sum/)  困难
+
+### [1838. 最高频元素的频数](https://leetcode-cn.com/problems/frequency-of-the-most-frequent-element/)
+* 所有都遍历一遍肯定容易超时， 如何去优化中间环节， 减少重复计算
 
